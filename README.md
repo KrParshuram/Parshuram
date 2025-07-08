@@ -39,7 +39,7 @@
 
 [🔗 Live Demo](https://blog-write-three.vercel.app) • [🧠 GitHub](https://github.com/KrParshuram/blogWrite)
 
-<img src="https://raw.githubusercontent.com/KrParshuram/finance/main/public/screenshot/categorychart.png" width="600" alt="Finance Chart" />
+<img src="https://raw.githubusercontent.com/KrParshuram/finance-app/main/public/screenshot/categorychart.png" width="600" alt="Finance Chart" />
 
 ---
 
